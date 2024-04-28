@@ -27,7 +27,7 @@ This is a simple backup tool implemented in Python using Tkinter for the graphic
 
 ```bash
 python backup_tool.py
-
+```
 
 ## Contributors
 
